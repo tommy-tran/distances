@@ -8,7 +8,6 @@ body {
 .jumbotron {
     background-color: transparent;
     margin: 0 0;
-    padding: 10px;
     font-size: 3rem;
 }
 
@@ -20,9 +19,13 @@ body {
     text-align: center;
 }
 
+label {
+    text-align: center;
+}
 
-.col-xs-10 {
-    padding: 10px 0;
+
+.col-xs-9 {
+    padding: 8px 0;
 }
 
 #googleMap {
