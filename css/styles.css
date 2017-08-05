@@ -9,6 +9,7 @@ body {
     background-color: transparent;
     margin: 0 0;
     padding: 10px;
+    font-size: 3rem;
 }
 
 .jumbotron h1 {
@@ -17,4 +18,9 @@ body {
 
 .jumbotron h1, .jumbotron p {
     text-align: center;
+}
+
+
+.col-xs-10 {
+    padding: 10px 0;
 }
