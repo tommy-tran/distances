@@ -1,0 +1,20 @@
+body {
+    background: url(bg.jpg) center center fixed;
+    background-size: cover;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+.jumbotron {
+    background-color: transparent;
+    margin: 0 0;
+    padding: 10px;
+}
+
+.jumbotron h1 {
+    letter-spacing: 2px;
+}
+
+.jumbotron h1, .jumbotron p {
+    text-align: center;
+}
