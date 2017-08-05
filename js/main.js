@@ -41,7 +41,7 @@ function calculateRoute() {
             directionsDisplay.setDirections({routes: []});
             map.setCenter(myLatLng);
             // Show error msg
-            $("output").html(`<div class="alert-danger">Invalid parameters</div>`);
+            $("#output").html(`<div class='alert-danger'>Invalid parameters</div>`);
         }
     });
 }

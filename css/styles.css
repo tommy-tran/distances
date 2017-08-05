@@ -30,3 +30,9 @@ body {
     height: 200px;
     margin: 10px auto;
 }
+
+#output {
+    text-align: center;
+    font-size: 3rem;
+    margin: 1em auto;
+}
